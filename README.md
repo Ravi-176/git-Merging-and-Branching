@@ -1,0 +1,1 @@
+This is a simple project to understand the concept of merging and branching in git.Cheers!
